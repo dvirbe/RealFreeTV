@@ -1,0 +1,132 @@
+[
+  {
+    "channelName": "כאן 11",
+    "channelID": 11,
+    "links": [
+      {
+        "url": "https://kan11.media.kan.org.il/hls/live/2024514/2024514/source1_4k/chunklist.m3u8",
+        "quality": "1080p",
+        "priority": 0
+      },
+      {
+        "url": "https://kan11.media.kan.org.il/hls/live/2024514/2024514/source1_2.5k/chunklist.m3u8",
+        "quality": "720p",
+        "priority": 1
+      },
+      {
+        "url": "https://kan11.media.kan.org.il/hls/live/2024514/2024514/source1_1.8k/chunklist.m3u8",
+        "quality": "576p",
+        "priority": 2
+      },
+      {
+        "url": "https://kan11.media.kan.org.il/hls/live/2024514/2024514/source1_1.2k/chunklist.m3u8",
+        "quality": "432p",
+        "priority": 3
+      },
+      {
+        "url": "https://kan11.media.kan.org.il/hls/live/2024514/2024514/source1_600/chunklist.m3u8",
+        "quality": "360p",
+        "priority": 4
+      },
+      {
+        "url": "https://kan11.media.kan.org.il/hls/live/2024514/2024514/source1_350/chunklist.m3u8",
+        "quality": "240p",
+        "priority": 5
+      }
+    ]
+  },
+  {
+    "channelName": " רשת 12",
+    "channelID": 12,
+    "links": [
+      {
+        "url": "https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/5/hdntl=exp=1759844594~acl=%2f*~data=hdntl~hmac=7bb658e0fc59aa386a7796d59b80bc4d2075a3330bb70bd17109baf66ab371a8/profileManifest.m3u8?_uid=94a580c2-ef5b-48db-99cf-445f69f4f20b&rK=b2&_did=366d1b01-7168-4143-8aa0-124d7c1607fd",
+        "quality": "1080p",
+        "priority": 0
+      },
+      {
+        "url": "https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/3/hdntl=exp=1759844594~acl=%2f*~data=hdntl~hmac=7bb658e0fc59aa386a7796d59b80bc4d2075a3330bb70bd17109baf66ab371a8/profileManifest.m3u8?_uid=94a580c2-ef5b-48db-99cf-445f69f4f20b&rK=b2&_did=366d1b01-7168-4143-8aa0-124d7c1607fd",
+        "quality": "720p",
+        "priority": 1
+      },
+      {
+        "url": "https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/2/hdntl=exp=1759844594~acl=%2f*~data=hdntl~hmac=7bb658e0fc59aa386a7796d59b80bc4d2075a3330bb70bd17109baf66ab371a8/profileManifest.m3u8?_uid=94a580c2-ef5b-48db-99cf-445f69f4f20b&rK=b2&_did=366d1b01-7168-4143-8aa0-124d7c1607fd",
+        "quality": "576p",
+        "priority": 2
+      },
+      {
+        "url": "https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/1/hdntl=exp=1759844594~acl=%2f*~data=hdntl~hmac=7bb658e0fc59aa386a7796d59b80bc4d2075a3330bb70bd17109baf66ab371a8/profileManifest.m3u8?_uid=94a580c2-ef5b-48db-99cf-445f69f4f20b&rK=b2&_did=366d1b01-7168-4143-8aa0-124d7c1607fd",
+        "quality": "432p",
+        "priority": 3
+      }
+    ]
+  },
+  {
+    "channelName": "קשת 13",
+    "channelID": 13,
+    "links": [
+      {
+        "url": "https://reshet.g-mana.live/media/87f59c77-03f6-4bad-a648-897e095e7360/profile/4/profileManifest.m3u8",
+        "quality": "1080p",
+        "priority": 0
+      },
+      {
+        "url": "https://reshet.g-mana.live/media/87f59c77-03f6-4bad-a648-897e095e7360/profile/3/profileManifest.m3u8",
+        "quality": "1080p",
+        "priority": 1
+      },
+      {
+        "url": "https://reshet.g-mana.live/media/87f59c77-03f6-4bad-a648-897e095e7360/profile/2/profileManifest.m3u8",
+        "quality": "720p",
+        "priority": 2
+      },
+      {
+        "url": "https://reshet.g-mana.live/media/87f59c77-03f6-4bad-a648-897e095e7360/profile/1/profileManifest.m3u8",
+        "quality": "720p",
+        "priority": 3
+      },
+      {
+        "url": "https://reshet.g-mana.live/media/87f59c77-03f6-4bad-a648-897e095e7360/profile/0/profileManifest.m3u8",
+        "quality": "576p",
+        "priority": 4
+      }
+    ]
+  },
+  {
+    "channelName": "עכשיו 14",
+    "channelID": 14,
+    "links": [
+      {
+        "url": "https://n-121-4.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8",
+        "quality": "540p",
+        "priority": 0
+      }
+    ]
+  },
+  {
+    "channelName": "i24news",
+    "channelID": 24,
+    "links": [
+      {
+        "url": "https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/profile_0/chunklist.m3u8",
+        "quality": "1080p",
+        "priority": 0
+      },
+      {
+        "url": "https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/profile_1/chunklist.m3u8",
+        "quality": "720p",
+        "priority": 1
+      },
+      {
+        "url": "https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/profile_2/chunklist.m3u8",
+        "quality": "540p",
+        "priority": 2
+      },
+      {
+        "url": "https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/profile_3/chunklist.m3u8",
+        "quality": "360p",
+        "priority": 3
+      }
+    ]
+  }
+]
