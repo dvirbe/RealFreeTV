@@ -40,22 +40,22 @@
     "channelID": 12,
     "links": [
       {
-        "url": "https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/5/hdntl=exp=1759844594~acl=%2f*~data=hdntl~hmac=7bb658e0fc59aa386a7796d59b80bc4d2075a3330bb70bd17109baf66ab371a8/profileManifest.m3u8?_uid=94a580c2-ef5b-48db-99cf-445f69f4f20b&rK=b2&_did=366d1b01-7168-4143-8aa0-124d7c1607fd",
+        "url": "https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/5/hdntl=exp=1763732183~acl=%2f*~data=hdntl~hmac=9473d9574725fa8c45440e42b9edfe0dd78db69f7525f03af2adb14512bd2d9d/profileManifest.m3u8?_uid=3388c6aa-193f-4dc9-8204-26a705152977&rK=b2",
         "quality": "1080p",
         "priority": 0
       },
       {
-        "url": "https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/3/hdntl=exp=1759844594~acl=%2f*~data=hdntl~hmac=7bb658e0fc59aa386a7796d59b80bc4d2075a3330bb70bd17109baf66ab371a8/profileManifest.m3u8?_uid=94a580c2-ef5b-48db-99cf-445f69f4f20b&rK=b2&_did=366d1b01-7168-4143-8aa0-124d7c1607fd",
+        "url": "https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/3/hdntl=exp=1763732183~acl=%2f*~data=hdntl~hmac=9473d9574725fa8c45440e42b9edfe0dd78db69f7525f03af2adb14512bd2d9d/profileManifest.m3u8?_uid=3388c6aa-193f-4dc9-8204-26a705152977&rK=b2",
         "quality": "720p",
         "priority": 1
       },
       {
-        "url": "https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/2/hdntl=exp=1759844594~acl=%2f*~data=hdntl~hmac=7bb658e0fc59aa386a7796d59b80bc4d2075a3330bb70bd17109baf66ab371a8/profileManifest.m3u8?_uid=94a580c2-ef5b-48db-99cf-445f69f4f20b&rK=b2&_did=366d1b01-7168-4143-8aa0-124d7c1607fd",
+        "url": "https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/2/hdntl=exp=1763732183~acl=%2f*~data=hdntl~hmac=9473d9574725fa8c45440e42b9edfe0dd78db69f7525f03af2adb14512bd2d9d/profileManifest.m3u8?_uid=3388c6aa-193f-4dc9-8204-26a705152977&rK=b2",
         "quality": "576p",
         "priority": 2
       },
       {
-        "url": "https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/1/hdntl=exp=1759844594~acl=%2f*~data=hdntl~hmac=7bb658e0fc59aa386a7796d59b80bc4d2075a3330bb70bd17109baf66ab371a8/profileManifest.m3u8?_uid=94a580c2-ef5b-48db-99cf-445f69f4f20b&rK=b2&_did=366d1b01-7168-4143-8aa0-124d7c1607fd",
+        "url": "https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/1/hdntl=exp=1763732183~acl=%2f*~data=hdntl~hmac=9473d9574725fa8c45440e42b9edfe0dd78db69f7525f03af2adb14512bd2d9d/profileManifest.m3u8?_uid=3388c6aa-193f-4dc9-8204-26a705152977&rK=b2",
         "quality": "432p",
         "priority": 3
       }
@@ -129,4 +129,5 @@
       }
     ]
   }
+
 ]
