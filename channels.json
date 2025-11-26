@@ -35,7 +35,40 @@
       }
     ]
   },
- 
+  {
+    "channelName": " רשת 12",
+    "channelID": 12,
+    "links": [
+      {
+        "url": "https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/5/hdntl=exp=1764201494~acl=%2f*~data=hdntl~hmac=17df95d71fa56915fca09d53b133b205d2e03bee53fdb6fd4e7845bb33442ca1/profileManifest.m3u8?_uid=b04544f4-a2a8-43e6-91fb-22c8c7d972a2&rK=b5&_did=9a86e32d13a333bd85527ea655be5057b386cd2b",
+        "quality": "1080p",
+        "priority": 0,
+	"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0",
+	"referer":"https://www.mako.co.il"
+      },
+      {
+        "url": "https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/3/hdntl=exp=1764201494~acl=%2f*~data=hdntl~hmac=17df95d71fa56915fca09d53b133b205d2e03bee53fdb6fd4e7845bb33442ca1/profileManifest.m3u8?_uid=b04544f4-a2a8-43e6-91fb-22c8c7d972a2&rK=b5&_did=9a86e32d13a333bd85527ea655be5057b386cd2b",
+        "quality": "720p",
+        "priority": 1,
+	"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0",
+	"referer":"https://www.mako.co.il"
+      },
+      {
+        "url": "https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/2/hdntl=exp=1764201494~acl=%2f*~data=hdntl~hmac=17df95d71fa56915fca09d53b133b205d2e03bee53fdb6fd4e7845bb33442ca1/profileManifest.m3u8?_uid=b04544f4-a2a8-43e6-91fb-22c8c7d972a2&rK=b5&_did=9a86e32d13a333bd85527ea655be5057b386cd2b",
+        "quality": "576p",
+        "priority": 2,
+	"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0",
+	"referer":"https://www.mako.co.il"
+      },
+      {
+        "url": "https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/1/hdntl=exp=1764201494~acl=%2f*~data=hdntl~hmac=17df95d71fa56915fca09d53b133b205d2e03bee53fdb6fd4e7845bb33442ca1/profileManifest.m3u8?_uid=b04544f4-a2a8-43e6-91fb-22c8c7d972a2&rK=b5&_did=9a86e32d13a333bd85527ea655be5057b386cd2b",
+        "quality": "432p",
+        "priority": 3,
+	"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0",
+	"referer":"https://www.mako.co.il"
+      }
+    ]
+  },
   {
     "channelName": "קשת 13",
     "channelID": 13,
@@ -106,5 +139,6 @@
   }
 
 ]
+
 
 
