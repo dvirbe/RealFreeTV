@@ -157,21 +157,138 @@
       }
     ]
   }, {
-    "channelName": "Sport 5+",
+    "channelName": "Sport 1",
     "channelID": 16,
+    "links": [
+      {
+        "url": "https://36mumdur.shop/yessport1/tracks-v1a1/",
+        "quality": "1080p",
+        "priority": 0,
+        "isM3u8": false,
+        "suffixUrl":"-10000.jpeg"
+      }
+    ]
+  }, {
+    "channelName": "Sport 2",
+    "channelID": 17,
+    "links": [
+      {
+        "url": "https://36mumdur.shop/yessport2/tracks-v1a1/",
+        "quality": "1080p",
+        "priority": 0,
+        "isM3u8": false,
+        "suffixUrl":"-10000.jpeg"
+      }
+    ]
+  }, {
+    "channelName": "Sport 3",
+    "channelID": 16,
+    "links": [
+      {
+        "url": "https://36mumdur.shop/yessport3/tracks-v1a1/",
+        "quality": "1080p",
+        "priority": 0,
+        "isM3u8": false,
+        "suffixUrl":"-10000.jpeg"
+      }
+    ]
+  }, {
+    "channelName": "Sport 4",
+    "channelID": 18,
+    "links": [
+      {
+        "url": "https://36mumdur.shop/yessport4/tracks-v1a1/",
+        "quality": "1080p",
+        "priority": 0,
+        "isM3u8": false,
+        "suffixUrl":"-10000.jpeg"
+      }
+    ]
+  }, {
+    "channelName": "Sport 5",
+    "channelID": 19,
+    "links": [
+      {
+        "url": "https://36mumdur.shop/yessport5/tracks-v1a1/",
+        "quality": "1080p",
+        "priority": 0,
+        "isM3u8": false,
+        "suffixUrl":"-10000.jpeg"
+      }
+    ]
+  }, {
+    "channelName": "Sport 5 Live",
+    "channelID": 20,
+    "links": [
+      {
+        "url": "https://36mumdur.shop/yessport5live/tracks-v1a1/",
+        "quality": "1080p",
+        "priority": 0,
+        "isM3u8": false,
+        "suffixUrl":"-10000.jpeg"
+      }
+    ]
+  }, {
+    "channelName": "Sport 5 Stars",
+    "channelID": 21,
+    "links": [
+      {
+        "url": "https://36mumdur.shop/5stars/tracks-v1a1/",
+        "quality": "1080p",
+        "priority": 0,
+        "isM3u8": false,
+        "suffixUrl":"-10000.jpeg"
+      }
+    ]
+  } , {
+    "channelName": "Sport 5 Gold",
+    "channelID": 22,
+    "links": [
+      {
+        "url": "https://36mumdur.shop/5sportgold/tracks-v1a1/",
+        "quality": "1080p",
+        "priority": 0,
+        "isM3u8": false,
+        "suffixUrl":"-10000.jpeg"
+      }
+    ]
+  } ,{
+    "channelName": "Sport 5+",
+    "channelID": 23,
     "links": [
       {
         "url": "https://36mumdur.shop/yessport5plus/tracks-v1a1/",
         "quality": "1080p",
         "priority": 0,
         "isM3u8": false,
-        "offset":7,
+        "suffixUrl":"-10000.jpeg"
+      }
+    ]
+  } ,{
+    "channelName": "One",
+    "channelID":24 ,
+    "links": [
+      {
+        "url": "https://36mumdur.shop/onesport/tracks-v1a1/",
+        "quality": "1080p",
+        "priority": 0,
+        "isM3u8": false,
+        "suffixUrl":"-10000.jpeg"
+      }
+    ]
+  }
+  ,{
+    "channelName": "One 2",
+    "channelID":25 ,
+    "links": [
+      {
+        "url": "https://36mumdur.shop/onesport2/tracks-v1a1/",
+        "quality": "1080p",
+        "priority": 0,
+        "isM3u8": false,
         "suffixUrl":"-10000.jpeg"
       }
     ]
   }
 
 ]
-
-
-
