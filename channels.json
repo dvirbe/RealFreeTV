@@ -165,11 +165,12 @@
         "quality": "1080p",
         "priority": 0,
         "isM3u8": false,
-        "offset":6,
+        "offset":5,
         "suffixUrl":"-10000.jpeg"
       }
     ]
   }
 
 ]
+
 
