@@ -6,66 +6,76 @@
       {
         "url": "https://kan11.media.kan.org.il/hls/live/2024514/2024514/source1_4k/chunklist.m3u8",
         "quality": "1080p",
-        "priority": 0
+        "priority": 0,
+        "isM3u8": true
       },
       {
         "url": "https://kan11.media.kan.org.il/hls/live/2024514/2024514/source1_2.5k/chunklist.m3u8",
         "quality": "720p",
-        "priority": 1
+        "priority": 1,
+        "isM3u8": true
       },
       {
         "url": "https://kan11.media.kan.org.il/hls/live/2024514/2024514/source1_1.8k/chunklist.m3u8",
         "quality": "576p",
-        "priority": 2
+        "priority": 2,
+        "isM3u8": true
       },
       {
         "url": "https://kan11.media.kan.org.il/hls/live/2024514/2024514/source1_1.2k/chunklist.m3u8",
         "quality": "432p",
-        "priority": 3
+        "priority": 3,
+        "isM3u8": true
       },
       {
         "url": "https://kan11.media.kan.org.il/hls/live/2024514/2024514/source1_600/chunklist.m3u8",
         "quality": "360p",
-        "priority": 4
+        "priority": 4,
+        "isM3u8": true
       },
       {
         "url": "https://kan11.media.kan.org.il/hls/live/2024514/2024514/source1_350/chunklist.m3u8",
         "quality": "240p",
-        "priority": 5
+        "priority": 5,
+        "isM3u8": true
       }
     ]
   },
   {
-    "channelName": " רשת 12",
+    "channelName": "רשת 12",
     "channelID": 12,
     "links": [
       {
         "url": "https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/5/hdntl=exp=1764459272~acl=%2f*~data=hdntl~hmac=c2d550a9f16a9f8b516a3b64fe15035c8a93c4599c315c9ceb4e77daa2eecff8/profileManifest.m3u8?_uid=ff7d965d-cbb0-4471-bf6a-c1a764637ba8&rK=b4&_did=366d1b01-7168-4143-8aa0-124d7c1607fd",
         "quality": "1080p",
         "priority": 0,
-	"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0",
-	"referer":"https://www.mako.co.il"
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0",
+        "referer": "https://www.mako.co.il",
+        "isM3u8": true
       },
       {
         "url": "https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/3/hdntl=exp=1764459272~acl=%2f*~data=hdntl~hmac=c2d550a9f16a9f8b516a3b64fe15035c8a93c4599c315c9ceb4e77daa2eecff8/profileManifest.m3u8?_uid=ff7d965d-cbb0-4471-bf6a-c1a764637ba8&rK=b4&_did=366d1b01-7168-4143-8aa0-124d7c1607fd",
         "quality": "720p",
         "priority": 1,
-	"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0",
-	"referer":"https://www.mako.co.il"
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0",
+        "referer": "https://www.mako.co.il",
+        "isM3u8": true
       },
       {
         "url": "https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/2/hdntl=exp=1764459272~acl=%2f*~data=hdntl~hmac=c2d550a9f16a9f8b516a3b64fe15035c8a93c4599c315c9ceb4e77daa2eecff8/profileManifest.m3u8?_uid=ff7d965d-cbb0-4471-bf6a-c1a764637ba8&rK=b4&_did=366d1b01-7168-4143-8aa0-124d7c1607fd",
         "quality": "576p",
         "priority": 2,
-	"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0",
-	"referer":"https://www.mako.co.il"
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0",
+        "referer": "https://www.mako.co.il",
+        "isM3u8": true
       },
       {
         "url": "https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/1/hdntl=exp=1764459272~acl=%2f*~data=hdntl~hmac=c2d550a9f16a9f8b516a3b64fe15035c8a93c4599c315c9ceb4e77daa2eecff8/profileManifest.m3u8?_uid=ff7d965d-cbb0-4471-bf6a-c1a764637ba8&rK=b4&_did=366d1b01-7168-4143-8aa0-124d7c1607fd",
         "quality": "432p",
         "priority": 3,
-	"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0",
-	"referer":"https://www.mako.co.il"
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0",
+        "referer": "https://www.mako.co.il",
+        "isM3u8": true
       }
     ]
   },
@@ -76,27 +86,32 @@
       {
         "url": "https://reshet.g-mana.live/media/87f59c77-03f6-4bad-a648-897e095e7360/profile/4/profileManifest.m3u8",
         "quality": "1080p",
-        "priority": 0
+        "priority": 0,
+        "isM3u8": true
       },
       {
         "url": "https://reshet.g-mana.live/media/87f59c77-03f6-4bad-a648-897e095e7360/profile/3/profileManifest.m3u8",
         "quality": "1080p",
-        "priority": 1
+        "priority": 1,
+        "isM3u8": true
       },
       {
         "url": "https://reshet.g-mana.live/media/87f59c77-03f6-4bad-a648-897e095e7360/profile/2/profileManifest.m3u8",
         "quality": "720p",
-        "priority": 2
+        "priority": 2,
+        "isM3u8": true
       },
       {
         "url": "https://reshet.g-mana.live/media/87f59c77-03f6-4bad-a648-897e095e7360/profile/1/profileManifest.m3u8",
         "quality": "720p",
-        "priority": 3
+        "priority": 3,
+        "isM3u8": true
       },
       {
         "url": "https://reshet.g-mana.live/media/87f59c77-03f6-4bad-a648-897e095e7360/profile/0/profileManifest.m3u8",
         "quality": "576p",
-        "priority": 4
+        "priority": 4,
+        "isM3u8": true
       }
     ]
   },
@@ -107,39 +122,53 @@
       {
         "url": "https://n-121-4.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8",
         "quality": "540p",
-        "priority": 0
+        "priority": 0,
+        "isM3u8": true
       }
     ]
   },
   {
     "channelName": "i24news",
-    "channelID": 24,
+    "channelID": 15,
     "links": [
       {
         "url": "https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/profile_0/chunklist.m3u8",
         "quality": "1080p",
-        "priority": 0
+        "priority": 0,
+        "isM3u8": true
       },
       {
         "url": "https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/profile_1/chunklist.m3u8",
         "quality": "720p",
-        "priority": 1
+        "priority": 1,
+        "isM3u8": true
       },
       {
         "url": "https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/profile_2/chunklist.m3u8",
         "quality": "540p",
-        "priority": 2
+        "priority": 2,
+        "isM3u8": true
       },
       {
         "url": "https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/profile_3/chunklist.m3u8",
         "quality": "360p",
-        "priority": 3
+        "priority": 3,
+        "isM3u8": true
       }
     ]
-  }
+  }, {
+    "channelName": "Sport 5+",
+    "channelID": 16,
+    "links": [
+      {
+        "url": "https://36mumdur.shop/yessport5plus/tracks-v1a1/",
+        "quality": "1080p",
+        "priority": 0,
+        "isM3u8": false,
+        "offset":6,
+        "suffixUrl":"-10000.jpeg"
+      }
+    ]
+  },
 
 ]
-
-
-
-
