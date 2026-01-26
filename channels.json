@@ -42,44 +42,6 @@
     ]
   },
   {
-    "channelName": "רשת 12",
-    "channelID": 12,
-    "links": [
-      {
-        "url": "https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/5/hdntl=exp=1764459272~acl=%2f*~data=hdntl~hmac=c2d550a9f16a9f8b516a3b64fe15035c8a93c4599c315c9ceb4e77daa2eecff8/profileManifest.m3u8?_uid=ff7d965d-cbb0-4471-bf6a-c1a764637ba8&rK=b4&_did=366d1b01-7168-4143-8aa0-124d7c1607fd",
-        "quality": "1080p",
-        "priority": 0,
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0",
-        "referer": "https://www.mako.co.il",
-        "isM3u8": true
-      },
-      {
-        "url": "https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/3/hdntl=exp=1764459272~acl=%2f*~data=hdntl~hmac=c2d550a9f16a9f8b516a3b64fe15035c8a93c4599c315c9ceb4e77daa2eecff8/profileManifest.m3u8?_uid=ff7d965d-cbb0-4471-bf6a-c1a764637ba8&rK=b4&_did=366d1b01-7168-4143-8aa0-124d7c1607fd",
-        "quality": "720p",
-        "priority": 1,
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0",
-        "referer": "https://www.mako.co.il",
-        "isM3u8": true
-      },
-      {
-        "url": "https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/2/hdntl=exp=1764459272~acl=%2f*~data=hdntl~hmac=c2d550a9f16a9f8b516a3b64fe15035c8a93c4599c315c9ceb4e77daa2eecff8/profileManifest.m3u8?_uid=ff7d965d-cbb0-4471-bf6a-c1a764637ba8&rK=b4&_did=366d1b01-7168-4143-8aa0-124d7c1607fd",
-        "quality": "576p",
-        "priority": 2,
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0",
-        "referer": "https://www.mako.co.il",
-        "isM3u8": true
-      },
-      {
-        "url": "https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/1/hdntl=exp=1764459272~acl=%2f*~data=hdntl~hmac=c2d550a9f16a9f8b516a3b64fe15035c8a93c4599c315c9ceb4e77daa2eecff8/profileManifest.m3u8?_uid=ff7d965d-cbb0-4471-bf6a-c1a764637ba8&rK=b4&_did=366d1b01-7168-4143-8aa0-124d7c1607fd",
-        "quality": "432p",
-        "priority": 3,
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0",
-        "referer": "https://www.mako.co.il",
-        "isM3u8": true
-      }
-    ]
-  },
-  {
     "channelName": "קשת 13",
     "channelID": 13,
     "links": [
@@ -128,35 +90,6 @@
     ]
   },
   {
-    "channelName": "i24news",
-    "channelID": 15,
-    "links": [
-      {
-        "url": "https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/profile_0/chunklist.m3u8",
-        "quality": "1080p",
-        "priority": 0,
-        "isM3u8": true
-      },
-      {
-        "url": "https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/profile_1/chunklist.m3u8",
-        "quality": "720p",
-        "priority": 1,
-        "isM3u8": true
-      },
-      {
-        "url": "https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/profile_2/chunklist.m3u8",
-        "quality": "540p",
-        "priority": 2,
-        "isM3u8": true
-      },
-      {
-        "url": "https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/profile_3/chunklist.m3u8",
-        "quality": "360p",
-        "priority": 3,
-        "isM3u8": true
-      }
-    ]
-  }, {
     "channelName": "Sport 1",
     "channelID": 16,
     "links": [
@@ -185,7 +118,7 @@
     "channelID": 16,
     "links": [
       {
-        "url": "https://yeni.1lacasada.site/yessport3/tracks-v1a1/",
+        "url": "https://yeni.1lacasada.site/yessport3/",
         "quality": "1080p",
         "priority": 0,
         "isM3u8": false,
@@ -209,7 +142,7 @@
     "channelID": 19,
     "links": [
       {
-        "url": "https://yeni.1lacasada.site/yessport5/tracks-v1a1/",
+        "url": "https://yeni.1lacasada.site/yessport5/",
         "quality": "1080p",
         "priority": 0,
         "isM3u8": false,
@@ -221,7 +154,7 @@
     "channelID": 20,
     "links": [
       {
-        "url": "https://yeni.1lacasada.site/yessport5live/tracks-v1a1/",
+        "url": "https://yeni.1lacasada.site/yessport5live/",
         "quality": "1080p",
         "priority": 0,
         "isM3u8": false,
@@ -292,6 +225,7 @@
   }
 
 ]
+
 
 
 
