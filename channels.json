@@ -161,7 +161,7 @@
     "channelID": 16,
     "links": [
       {
-        "url": "https://yeni.1lacasada.site/yessport1/tracks-v1a1/",
+        "url": "https://yeni.1lacasada.site/yessport1/",
         "quality": "1080p",
         "priority": 0,
         "isM3u8": false,
@@ -173,7 +173,7 @@
     "channelID": 17,
     "links": [
       {
-        "url": "https://yeni.1lacasada.site/yessport2/tracks-v1a1/",
+        "url": "https://yeni.1lacasada.site/yessport2/",
         "quality": "1080p",
         "priority": 0,
         "isM3u8": false,
@@ -197,7 +197,7 @@
     "channelID": 18,
     "links": [
       {
-        "url": "https://yeni.1lacasada.site/yessport4/tracks-v1a1/",
+        "url": "https://yeni.1lacasada.site/yessport4/",
         "quality": "1080p",
         "priority": 0,
         "isM3u8": false,
@@ -233,7 +233,7 @@
     "channelID": 21,
     "links": [
       {
-        "url": "https://yeni.1lacasada.site/5stars/tracks-v1a1/",
+        "url": "https://yeni.1lacasada.site/5stars/",
         "quality": "1080p",
         "priority": 0,
         "isM3u8": false,
@@ -257,7 +257,7 @@
     "channelID": 23,
     "links": [
       {
-        "url": "https://yeni.1lacasada.site/yessport5plus/tracks-v1a1/",
+        "url": "https://yeni.1lacasada.site/yessport5plus/",
         "quality": "1080p",
         "priority": 0,
         "isM3u8": false,
@@ -269,7 +269,7 @@
     "channelID":24 ,
     "links": [
       {
-        "url": "https://yeni.1lacasada.site/onesport/tracks-v1a1/",
+        "url": "https://yeni.1lacasada.site/onesport/",
         "quality": "1080p",
         "priority": 0,
         "isM3u8": false,
@@ -282,7 +282,7 @@
     "channelID":25 ,
     "links": [
       {
-        "url": "https://yeni.1lacasada.site/onesport2/tracks-v1a1/",
+        "url": "https://yeni.1lacasada.site/onesport2/",
         "quality": "1080p",
         "priority": 0,
         "isM3u8": false,
@@ -292,6 +292,7 @@
   }
 
 ]
+
 
 
 
