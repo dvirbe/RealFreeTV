@@ -161,7 +161,7 @@
     "channelID": 16,
     "links": [
       {
-        "url": "https://yeni.1lacasada.site/yessport1/",
+        "url": "https://yeni.1lacasada.site/yessport1/tracks-v1a1/",
         "quality": "1080p",
         "priority": 0,
         "isM3u8": false,
@@ -292,5 +292,6 @@
   }
 
 ]
+
 
 
